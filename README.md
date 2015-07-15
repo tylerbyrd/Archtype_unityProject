@@ -9,7 +9,7 @@ unwittingly crashing the city.
  
 #Crafting exploits, payloads, and methods of deployment. 
   As the hacker, you have two planes of existance to interact with: high-level systems (such as the ones running the transit)
-and low-level systems (The ones generating the reality you live in). Each system the player interacts with must be studied before the player can exploit it. On to the exploits; the player will have to build those themselves at the hideout where they can't be traced and can focus on quality, or in the field where it will be rushed. If they do not wish to have to they may buy from zero-day hawkers in the Underground. The player decides what payload to deploy as well, so long as he has the files to back it up.
+and low-level systems (The ones generating the reality you live in). Each system the player interacts with must be studied before the player can exploit it. On to the exploits; the player will have to build those themselves at the hideout where they can't be traced and can focus on quality, or in the field where it will be rushed. If they do not wish to have to they may buy from zero-day hawkers in the Underground. The player decides what payload to deploy as well, so long as he has the files to back it up. And one last thing; the player has a full freaking linux-type shell at their disposal. Tired of going on foot or by the transit? cd into the directory where your file is currently stored, and move that nigga to ~/loc/safehouse.
 
 #The Exploit Heirarchy, and the Player Genome.
   This is my take on a skill tree. The Exploit Heirarchy uses prefabbed exploits (written or purchased by the player)
